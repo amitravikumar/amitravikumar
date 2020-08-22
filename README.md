@@ -48,3 +48,8 @@
 [instagram]: https://instagram.com/iamitsahani
 [linkedin]: https://linkedin.com/in/amitravikumar
 
+<img align="left" alt="rvsp's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amitravikumar&show_icons=true&hide_border=true&theme=radical"/>
+<img align="left" alt="rvsp's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitravikumar&layout=compact" />
+<br>
+<br>
+
