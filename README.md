@@ -5,10 +5,10 @@
 
 ## I'm currently a Student and a Developer!
 
-- 🔭 I’m currently working on a JavaScript 30 Day Challenge!
+- 🔭 I’m currently working on a JavaScript 30 Day Challenge, 100 Day starting soon!
 - 🌱 I’m currently learning everything 🤣
 - 👩‍💻 I'm also creating a theme for VS Code, Atom & Sublime text 👩‍💻
-- 👯 I’m looking to collaborate with people and learning together
+- 👯 I’m looking to collaborate with people and learning together 
 - 🥅 2020 Goals: Contribute more to Open Source projects and land a SDE Job
 - ⚡ Fun fact: I love to Code and read books sometimes 😬
 
