@@ -3,7 +3,7 @@
 [![LCodepen Follow](https://img.shields.io/badge/CODEPEN-Follow-black)](https://codepen.io/amitravikumar)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamitravikumar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/)
 
-## I'm currently a student and a Developer!
+## I'm currently a Student and a Developer!
 
 - 🔭 I’m currently working on a JavaScript 30 Day Challenge!
 - 🌱 I’m currently learning everything 🤣
