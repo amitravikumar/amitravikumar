@@ -2,6 +2,7 @@
 
 [![LCodepen Follow](https://img.shields.io/badge/CODEPEN-Follow-black)](https://codepen.io/amitravikumar)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamitravikumar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/)
+[![HitCount](http://hits.dwyl.com/amitravikumar/amitravikumar/READMEmd.svg)](http://hits.dwyl.com/amitravikumar/amitravikumar/READMEmd)
 
 ## I'm currently a Student and a Developer!
 
