@@ -4,6 +4,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamitravikumar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/)
 [![HitCount](http://hits.dwyl.com/amitravikumar/amitravikumar/READMEmd.svg)](http://hits.dwyl.com/amitravikumar/amitravikumar/READMEmd)
 
+### Visit my portfolio website: amitravikumar.github.io
+
 ## I'm currently a Student and a Developer!
 
 - 🔭 I’m currently working on a JavaScript 30 Day Challenge, 100 Day starting soon!
