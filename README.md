@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/amitravikumar/amitravikumar/master/software developer.png"/>
 ### Hi there, Amit Kumar👋
 
 [![LCodepen Follow](https://img.shields.io/badge/CODEPEN-Follow-black)](https://codepen.io/amitravikumar)
