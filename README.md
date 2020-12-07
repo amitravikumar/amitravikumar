@@ -9,15 +9,12 @@
 
 ## I'm currently a Student and a Developer!
 
-- 🔭 I’m currently working on a JavaScript 30 Day Challenge, 100 Day starting soon!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently learning Data Structures and Algorithms
+- 🌱 Tech Stack I’m currently learning -> Gatsby
 - 👩‍💻 I'm also creating a theme for VS Code, Atom & Sublime text 👩‍💻
 - 👯 I’m looking to collaborate with people and learning together 
 - 🥅 2020 Goals: Contribute more to Open Source projects and land a SDE Job
 - ⚡ Fun fact: I love to Code and read books sometimes 😬
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Amit Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
