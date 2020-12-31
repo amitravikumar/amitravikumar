@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently learning Data Structures and Algorithms
 - 🌱 Tech Stack I’m currently learning -> Gatsby
-- 👩‍💻 I'm also creating a theme for VS Code, Atom & Sublime text 👩‍💻
+- 👩‍💻 I'm also creating a theme for VS Code👩‍💻
 - 👯 I’m looking to collaborate with people and learning together 
-- 🥅 2020 Goals: Contribute more to Open Source projects and land a SDE Job
+- 🥅 2021 Goals: Contribute more to Open Source projects and land a SDE Job
 - ⚡ Fun fact: I love to Code and read books sometimes 😬
 
 ### Connect with me:
