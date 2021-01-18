@@ -1,55 +1,49 @@
-<img src="https://raw.githubusercontent.com/amitravikumar/amitravikumar/master/software developer.png"/>
-
-### Hi there, Amit Kumar👋
-
-[![LCodepen Follow](https://img.shields.io/badge/CODEPEN-Follow-black)](https://codepen.io/amitravikumar)
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamitravikumar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/)
-[![HitCount](http://hits.dwyl.com/amitravikumar/amitravikumar/READMEmd.svg)](http://hits.dwyl.com/amitravikumar/amitravikumar/READMEmd)
-
-### Visit my portfolio website: https://amitravikumar.github.io
-
-## I'm currently a Student and a Developer!
-
-- 🔭 I’m currently learning Data Structures and Algorithms
-- 🌱 Tech Stack I’m currently learning -> Gatsby
-- 👩‍💻 I'm also creating a theme for VS Code👩‍💻
-- 👯 I’m looking to collaborate with people and learning together 
-- 🥅 2021 Goals: Contribute more to Open Source projects and land a SDE Job
-- ⚡ Fun fact: I love to Code and read books sometimes 😬
-
-### Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
-<br />
-<br />
+# Hi, I'm Amit Kumar 👋🏼👨🏻‍💻
 
 
-[twitter]: https://twitter.com/iamitravikumar
-[instagram]: https://instagram.com/iamitsahani
-[linkedin]: https://linkedin.com/in/amitravikumar
 
-<img align="left" alt="rvsp's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amitravikumar&show_icons=true&hide_border=true&theme=radical"/>
-<img align="left" alt="rvsp's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitravikumar&layout=compact" />
-<br>
-<br>
+<img align="right" width="300" src="undraw_on_the_office_fbfs.svg"/>
 
+</br>
+
+## **About Me**🧔🏻
+
+I am a self-motivated and passionate  individual who loves to code👨🏻‍💻, build🛠 and colloborate🤝in creating software products that creates impact. I am looking to work with both Product and Service based companies in web, mobile application development and also an active colloborator in tech community forums.
+
+
+
+</br></br>
+
+<img align="left" width="300" src="undraw_developer_activity_bv83.svg"/>
+
+</br>
+
+## **My Work**👨🏻‍💻
+
+- Building user experience for web applications using React & Redux
+- Developing cross-platform mobile applications using React-Native & Redux
+- Creating backend server applications using Node, Express, MongoDB
+
+</br></br>
+
+ <img  align="right" src="https://github-readme-stats.vercel.app/api?username=amitravikumar&show_icons=true&text_color=fff&icon_color=00C853&title_color=00C853&bg_color=202020">
+
+## **My Tech** 👨🏻‍🔧
+
+<img width="36px" alt="javascript" src="javascript.svg">&nbsp;
+<img width="46px" alt="react" src="react.svg">&nbsp;
+<img width="46px" alt="redux" src="redux.svg">&nbsp;
+<img width="46px" alt="nodejs" src="nodejs.svg">&nbsp;
+<img width="46px" alt="git" src="git.svg">&nbsp;
+<img width="36px" alt="html" src="html-5.svg">&nbsp;
+<img width="36px" alt="css" src="css-3.svg">&nbsp;
+
+
+## **View my portfolio** 
+
+### **<a href="https://amitravikumar.github.io" target="_blank">Amit Kumar</a>**
+
+</br>
+</br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amitravikumar" alt="amitravikumar" /> </p>
