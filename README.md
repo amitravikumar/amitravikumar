@@ -45,6 +45,9 @@ I am a self-motivated and passionate  individual who loves to code👨🏻‍�
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="react" width="40" height="40"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="grpc" width="40" height="40"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/drupal/drupal-icon.svg" alt="Drupal" width="40" height="40"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> &nbsp;
 <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="react" width="40" height="40"/> &nbsp;
 
 ## **View my portfolio** 
