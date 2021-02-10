@@ -59,5 +59,4 @@ I am a self-motivated and passionate  individual who loves to code👨🏻‍�
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amitravikumar" alt="amitravikumar" /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=amitravikumar&show_icons=true&include_all_commits=true)](https://github.com/amitravikumar/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitravikumar&layout=compact)](https://github.com/amitravikumar/github-readme-stats)
