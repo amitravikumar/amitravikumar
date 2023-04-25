@@ -25,10 +25,10 @@ My portfolio specializes in creating medical applications, Scaling the applicati
 - I excel at executing the bigger ideas in a limited time frame.
 - I help my teammates in all possible ways, from motivation to tech.
 
-## **Technical Specialties: **
+Technical Specialties:
 JavaScript | ReactJS | NodeJS | ExpressJS | MongoDB | AWS | gRPC | Git | HTML | CSS | Python | Adobe XD | Figma
 
-## **Professional Abilities: **
+Professional Abilities:
 Software Engineering | Product Roadmap | Product Management | Project Management | Search Engine Optimisation(Tech)
 
 </br></br>
