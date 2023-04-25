@@ -8,7 +8,7 @@
 
 ## **About Me**🧔🏻
 
-I am a self-motivated and passionate  individual who loves to code👨🏻‍💻, build🛠 and colloborate🤝in creating software products that creates impact. I am looking to work with both Product and Service based companies in web, mobile application development and also an active colloborator in tech community forums.
+I love to dig into the problems faced by companies in the modern world of evolving technology needs. My job includes solving problems, scaling, optimizing the portfolios in that matter. To accomplish my tasks I focus on the key requirements and challenges and collaborate in the best possible way with the team to reach efficient results. 
 
 
 
@@ -20,9 +20,16 @@ I am a self-motivated and passionate  individual who loves to code👨🏻‍�
 
 ## **My Work**👨🏻‍💻
 
-- Building user experience for web applications using React & Redux
-- Developing cross-platform mobile applications using React-Native & Redux
-- Creating backend server applications using Node, Express, MongoDB
+My portfolio specializes in creating medical applications, Scaling the applications from 0 to 10 Lakh users a month.
+- I have been a direct point of contact for the tech needs and helped directly with the tasks related to task management, project estimations, deadlines, etc. 
+- I excel at executing the bigger ideas in a limited time frame.
+- I help my teammates in all possible ways, from motivation to tech.
+
+## **Technical Specialties: **
+JavaScript | ReactJS | NodeJS | ExpressJS | MongoDB | AWS | gRPC | Git | HTML | CSS | Python | Adobe XD | Figma
+
+## **Professional Abilities: **
+Software Engineering | Product Roadmap | Product Management | Project Management | Search Engine Optimisation(Tech)
 
 </br></br>
 
