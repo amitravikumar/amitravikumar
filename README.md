@@ -4,12 +4,6 @@
 
 <img align="right" width="300" src="undraw_on_the_office_fbfs.svg"/>
 
-</br>
-
-<a href="https://app.daily.dev/amitravikumar"><img src="https://api.daily.dev/devcards/8f5ae60ff6d548c8a0a94d00cbf507c3.png?r=2ys" width="400" alt="Amit Kumar's Dev Card"/></a>
-
-</br>
-
 ## **About Me**🧔🏻
 
 I love to dig into the problems faced by companies in the modern world of evolving technology needs. My job includes solving problems, scaling, optimizing the portfolios in that matter. To accomplish my tasks I focus on the key requirements and challenges and collaborate in the best possible way with the team to reach efficient results. 
