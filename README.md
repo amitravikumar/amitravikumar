@@ -60,7 +60,3 @@ Backend Engineering | Data Engineering | Technical Leadership | Project Manageme
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amitravikumar" alt="amitravikumar" /> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitravikumar&layout=compact)](https://github.com/amitravikumar/github-readme-stats)
-
----
-
-Feel free to tweak the icons and wording as necessary!
