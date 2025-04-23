@@ -1,69 +1,75 @@
-# Hi, I'm Amit Kumar 👋🏼👨🏻‍💻
+# Hi, I'm Amit Kumar 👋🏼
 
-<img align="right" width="300" src="undraw_on_the_office_fbfs.svg"/>
+<img align="right" src="undraw_on_the_office_fbfs.svg" width="280"/>
 
-## **About Me** 🧔🏻
+## 🧠 Technical Solutions Architect | Backend & Data Engineering | Product-Led Systems
 
-I'm a Technical Lead at **Animeta AI**, where I focus on **Backend Development** and **Data Engineering**. My passion lies in creating scalable systems and optimizing data processes to drive innovation. I hold a **Master's in Information Technology**, which underpins my problem-solving approach.
+As a **Technical Solutions Architect**, I specialize in designing **scalable backend architectures**, driving **data engineering excellence**, and aligning **technical strategy with business impact**.
 
-I enjoy tackling modern technological challenges and collaborating with teams to deliver impactful solutions. My experience spans leading high-impact projects in healthcare, fintech, and retail, driving technological excellence.
-
----
-
-<img align="left" width="300" src="undraw_developer_activity_bv83.svg"/>
-
-## **My Work** 👨🏻‍💻
-
-At **Animeta AI**, I lead projects that enhance system robustness and scalability:
-- **Backend Development**: Utilizing cutting-edge technologies to optimize data pipelines and ensure system reliability.
-- **Data Engineering**: Implementing efficient data processing solutions to enhance system performance.
-- **Team Leadership**: Mentoring teams, fostering innovation, and aligning strategies with organizational goals.
-
-### Technical Specialties:
-- JavaScript | ReactJS | NodeJS | ExpressJS | MongoDB | AWS | gRPC | Git | HTML | CSS | Python | Adobe XD | Figma
-
-### Professional Abilities:
-- Backend Engineering | Data Engineering | Technical Leadership | Project Management | SEO (Tech)
+I build **resilient, high-performance systems** that scale from 0 to 100K+ users, optimize cloud cost and efficiency, and enhance API performance — all while ensuring security, reliability, and long-term scalability.
 
 ---
 
-## **My Tech Stack** 👨🏻‍🔧
+## 💡 What I Bring to the Table
+
+🔹 **Technical Leadership & Product Strategy**  
+- Roadmapping, cross-functional collaboration, business-aligned tech decisions
+
+🔹 **Backend & System Architecture**  
+- Microservices, event-driven design, scalable APIs, NodeJS, gRPC
+
+🔹 **Cloud & DevOps Optimization**  
+- AWS, Kubernetes, Docker, CI/CD, IaC, observability
+
+🔹 **Performance Engineering**  
+- Caching (Redis, Memcached), DB indexing, rate limiting, log pipelines
+
+🔹 **Security & Compliance**  
+- OAuth2, JWT, encryption, data privacy, regulatory adherence
+
+🔹 **People Leadership & Mentorship**  
+- Agile execution, scaling teams, building engineering culture
+
+---
+
+## 🚀 Career Highlights
+
+✔ **Architect @ Animeta AI** – Leading backend/data innovations for AI-powered creator analytics  
+✔ **Scaled startup systems** to support 100K+ users with 99.9% uptime  
+✔ **Reduced AWS costs by 30%** through infrastructure strategy  
+✔ **Shipped product features** with a strategic, user-first mindset  
+✔ **Built resilient logging and debugging systems** for production monitoring  
+✔ **Managed infra for top stock trading platforms** – ensured performance and fault-tolerance
+
+---
+
+## 🌐 Explore My Work
+
+🔗 **Portfolio**: [amitravikumar.github.io](https://amitravikumar.github.io)
 
 <p align="center">
-  <img width="36px" alt="HTML5" src="html-5.svg">&nbsp;
-  <img width="36px" alt="CSS3" src="css-3.svg">&nbsp;
-  <img width="36px" alt="JavaScript" src="javascript.svg">&nbsp;
-  <img width="46px" alt="React" src="react.svg">&nbsp;
-  <img width="46px" alt="Redux" src="redux.svg">&nbsp;
-  <img width="46px" alt="Node.js" src="nodejs.svg">&nbsp;
-  <img width="46px" alt="Git" src="git.svg">&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/> &nbsp;
-  <img src="https://firebasestorage.googleapis.com/v0/b/soham-dave08.appspot.com/o/Logo%2Fexpressjs.svg?alt=media&token=efd0ead3-8ca1-4616-a249-b0950728376b" alt="Express.js" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git SCM" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" alt="gRPC" width="40" height="40"/> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=amitravikumar&show_icons=true&theme=radical&hide_title=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitravikumar&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## **Explore My Work** 🌐
+## ⚙️ Tech Toolbox
 
-### [Amit Kumar Portfolio](https://amitravikumar.github.io)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,redux,express,mongodb,mysql,python,aws,docker,kubernetes,git,github,html,css,figma,xd,grpc,redis" />
+</p>
 
 ---
 
-<p align="center"> 
+## 📬 Let's Connect
+
+Open to **technical leadership**, **architectural consulting**, and **product-driven engineering** opportunities.  
+Let’s build the future — systems that are **fast**, **scalable**, and **built to last**. 🚀
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=amitravikumar&style=flat-square&color=00C853&label=PROFILE+VIEWS"/> 
-</p>
-
-<p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=amitravikumar&show_icons=true&text_color=fff&icon_color=00C853&title_color=00C853&bg_color=202020">
-</p>
-
-<p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitravikumar&layout=compact&text_color=fff&bg_color=202020)](https://github.com/amitravikumar/github-readme-stats)
 </p>
