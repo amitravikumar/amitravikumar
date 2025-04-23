@@ -67,8 +67,10 @@ I build **resilient, high-performance systems** that scale from 0 to 100K+ users
 
 ## 📬 Let's Connect
 
-Open to **technical leadership**, **architectural consulting**, and **product-driven engineering** opportunities.  
+I'm open to **technical leadership**, **architectural consulting**, and **product-driven engineering** opportunities.  
 Let’s build the future — systems that are **fast**, **scalable**, and **built to last**. 🚀
+
+📧 [iamitravikumar@gmail.com](mailto:iamitravikumar@gmail.com)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amitravikumar&style=flat-square&color=00C853&label=PROFILE+VIEWS"/> 
